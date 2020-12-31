@@ -1,0 +1,45 @@
+.center-bar {
+  background-color: #eee;
+  min-height: 95vh;
+}
+.title-container {
+  background-color: darkred;
+  color: white;
+  margin-bottom: 5px;
+  margin-top: 15px;
+  padding: 1px;
+  padding-top: 5px;
+}
+
+.pixel {
+  background: white;
+  float: left;
+  padding: 0;
+  text-align: center;
+  display: table-cell;
+}
+
+.image-row {
+  clear: both;
+  display: table;
+  float: left;
+}
+
+.warning-entry {
+  color: red
+}
+
+.info-text {
+  width: 300px;
+}
+
+.float-right {
+  float: right;
+}
+
+.bottom {
+  align-self: flex-end;
+  background-color: #eee;
+  width: 100%;
+  height: 50px;
+}
