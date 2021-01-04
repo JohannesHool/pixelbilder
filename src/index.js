@@ -337,6 +337,7 @@ class MyForm extends React.Component {
           <div className="col-lg-12 center-bar">
             <div className="row">
               <div className="col-lg-12">
+              <div class="text-right">Contact: <a href="mailto:hooljohannes@gmail.com">Johannes Hool</a></div>
                 <div className="text-center title-container rounded">
                   <h1>Pixelbilder</h1>
                 </div>
@@ -414,7 +415,6 @@ class MyForm extends React.Component {
               </div>
             </div>
           </div>
-          <div class="bottom">Contact: <a href="mailto:hooljohannes@gmail.com">Johannes Hool</a></div>
         </div>
       </div>
     );
