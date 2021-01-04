@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13d76104af017ee870aaffd637d4277c",
+    "revision": "9390b266a33e3ae611a57cb08abeb6b8",
     "url": "/pixelbilder/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pixelbilder/static/css/2.3cf5d70f.chunk.css"
   },
   {
-    "revision": "4b5f2d238bd5d0427c07",
-    "url": "/pixelbilder/static/css/main.6be970a7.chunk.css"
+    "revision": "354b0fd85f6767c9be20",
+    "url": "/pixelbilder/static/css/main.eb8bb67e.chunk.css"
   },
   {
     "revision": "806d326443f092eb7ac2",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pixelbilder/static/js/2.1e39b9cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b5f2d238bd5d0427c07",
-    "url": "/pixelbilder/static/js/main.5b18d2a2.chunk.js"
+    "revision": "354b0fd85f6767c9be20",
+    "url": "/pixelbilder/static/js/main.d027dd25.chunk.js"
   },
   {
     "revision": "c70c5fe479cb1e26f923",
